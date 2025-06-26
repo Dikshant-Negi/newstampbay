@@ -15,7 +15,7 @@ function page() {
       <ProductCard />
       <Swipper data={data} heading="FEATURED PRODUCTS" />
       <Banner />
-      <Swipper heading="PRE STAMP COVER" data={data} />
+      <Swipper heading="PRE STAMP COVER" data={data}  />
       <Footer />
     </div>
   );
